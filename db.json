@@ -1,30 +1,6 @@
 {
   "questions": [
     {
-      "id": 1,
-      "prompt": "What special prop should always be included for lists of elements?",
-      "answers": [
-        "id",
-        "name",
-        "key",
-        "prop"
-      ],
-      "correctIndex": 0,
-      "isDeleted": true
-    },
-    {
-      "id": 2,
-      "prompt": "A React component is a function that returns ______.",
-      "answers": [
-        "HTML",
-        "JSX",
-        "props",
-        "state"
-      ],
-      "correctIndex": 1,
-      "isDeleted": true
-    },
-    {
       "id": 3,
       "prompt": "Which event handler will run when a user is finished filling out a form?",
       "answers": [
